@@ -1,34 +1,34 @@
-"vunlde.vim‚ÅŠÇ—‚µ‚Ä‚éplugin‚ğ“Ç‚İ‚Ş
+"vunlde.vimã§ç®¡ç†ã—ã¦ã‚‹pluginã‚’èª­ã¿è¾¼ã‚€
 "source ~/vimfiles/.vimrc.bundle
 
 
-"Šî–{İ’è
+"åŸºæœ¬è¨­å®š
 source ~/vimfiles/.vimrc.basic
-"StatusLineİ’è
+"StatusLineè¨­å®š
 source ~/vimfiles/.vimrc.statusline
-"ƒCƒ“ƒfƒ“ƒgİ’è
+"ã‚¤ãƒ³ãƒ‡ãƒ³ãƒˆè¨­å®š
 source ~/vimfiles/.vimrc.indent
-"•\¦ŠÖ˜A
+"è¡¨ç¤ºé–¢é€£
 source ~/vimfiles/.vimrc.apperance
-"•âŠ®ŠÖ˜A
+"è£œå®Œé–¢é€£
 source ~/vimfiles/.vimrc.completion
-"TagsŠÖ˜A
+"Tagsé–¢é€£
 source ~/vimfiles/.vimrc.tags
-"ŒŸõŠÖ˜A
+"æ¤œç´¢é–¢é€£
 source ~/vimfiles/.vimrc.search
-"ˆÚ“®ŠÖ˜A
+"ç§»å‹•é–¢é€£
 source ~/vimfiles/.vimrc.moving
-"ColorŠÖ˜A
+"Coloré–¢é€£
 source ~/vimfiles/.vimrc.colors
-"•ÒWŠÖ˜A
+"ç·¨é›†é–¢é€£
 source ~/vimfiles/.vimrc.editing
-"ƒGƒ“ƒR[ƒfƒBƒ“ƒOŠÖ˜A
+"ã‚¨ãƒ³ã‚³ãƒ¼ãƒ‡ã‚£ãƒ³ã‚°é–¢é€£
 source ~/vimfiles/.vimrc.encoding
 
-"‚»‚Ì‘¼
+"ãã®ä»–
 "source ~/vimfiles/.vimrc.misc
-"ƒvƒ‰ƒOƒCƒ“‚ÉˆË‘¶‚·‚éƒAƒŒ
+"ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã«ä¾å­˜ã™ã‚‹ã‚¢ãƒ¬
 "source ~/vimfiles/.vimrc.plugins_setting
-"Vim‚Ågit‚ÌƒƒO‚ğ‚«‚ê‚¢‚É•\¦‚·‚é - deris‚Ì“ú‹L
+"Vimã§gitã®ãƒ­ã‚°ã‚’ãã‚Œã„ã«è¡¨ç¤ºã™ã‚‹ - derisã®æ—¥è¨˜
 "  http://deris.hatenablog.jp/entry/2013/05/10/003430
 "source ~/vimfiles/.vimrc.gitlogviewer
