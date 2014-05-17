@@ -6,25 +6,61 @@ upgrade
 
 # Add Repository
 tap caskroom/cask || true
+tap caskroom/versions || true
 tap homebrew/binary || true
 
+################################
 # Packages for development
-install zsh
+################################
+# git
 install git
-install vim
+install hub
+install tig
 
-# Packeges for enviroment
+# editor/console
+install vim
+install tmux
+install zsh
+install zsh-completions
+
+# utilities
+install coreutils
+install findutils
+install tree
+install readline
+install wget --enable-iri
+install curl
+
+################################
+# Packages for lang
+################################
+# ruby
+install rbenv
+install ruby-build
+
+
+# enviroment
 install docker
 install boot2docker
+install packer
 
 # Packages for brew-cask
 install brew-cask
 
 # .dmg from brew-cask
 cask install google-chrome
+cask install google-chrome-dev
+cask install firefox
+cask install iterm2
+cask install sublime-text3
+
+cask install alfred
+cask alfred link
+
 cask install virtualbox
 cask install vagrant
 cask install sourcetree
 
 # Remove outdated versions
 cleanup
+
