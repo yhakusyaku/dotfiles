@@ -60,6 +60,7 @@ cask alfred link
 cask install virtualbox
 cask install vagrant
 cask install sourcetree
+cask install skype
 
 # Remove outdated versions
 cleanup
